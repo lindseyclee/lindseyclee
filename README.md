@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I'm Lindsey, a recent grad from Chapman University with a bachelor's degree in Data Science and an aspiring Data Analyst!
+I'm Lindsey, an aspiring Data Analyst based in California!
 
-* 📫 How to reach me: lindseychloelee@gmail.com
+* I recently graduated from Chapman University with a degree in Data Science
+* I will be uploading what I've worked on, including course projects!
+
+* You can reach me by email: lindseychloelee@gmail.com
   
 <!--
 **lindseyclee/lindseyclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
