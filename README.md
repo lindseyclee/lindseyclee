@@ -2,8 +2,8 @@
 
 I'm Lindsey, an aspiring Data Analyst based in California!
 
-* I recently graduated from Chapman University with a degree in Data Science
-* I will be uploading what I've worked on, including course projects!
+* I recently graduated from Chapman University with a degree in Data Science in Fall 2025
+* I will be uploading what I've worked on here, including course projects!
 
 * You can reach me by email: lindseychloelee@gmail.com
   
