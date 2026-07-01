@@ -2,7 +2,7 @@
 
 I'm Lindsey, an aspiring Data Analyst based in California!
 
-* I am a senior Data Science student at Chapman University
+* I'm a recent graduate from Chapman University in Data Science
 * I will be uploading what I've worked on here, including course projects!
 
 * You can reach me by email: lindseychloelee@gmail.com
